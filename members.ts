@@ -134,19 +134,19 @@ export const members: Member = [
     ]
   },
   {
-    avatar: 'https://avatars.hdu-cs.wiki/ganbabamaster',
-    name: 'ganbabamaster',
-    title: 'Contributor',
-    links: [
-      { icon: 'github', link: 'https://github.com/ganbabamaster' },
-    ]
-  },
-  {
     avatar: 'https://avatars.hdu-cs.wiki/ChengNanFlower',
     name: 'ChengNanFlower',
     title: 'Contributor',
     links: [
       { icon: 'github', link: 'https://github.com/ChengNanFlower' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/ganbabamaster',
+    name: 'ganbabamaster',
+    title: 'Contributor',
+    links: [
+      { icon: 'github', link: 'https://github.com/ganbabamaster' },
     ]
   },
   {
